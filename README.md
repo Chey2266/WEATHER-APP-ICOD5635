@@ -48,6 +48,8 @@ Error Handling: Error handling is implemented to gracefully handle scenarios whe
 
 USAGE:
 
+ENTER YOUR LOCATION: Users enter a location in the input field and click 'Search' option to get the weather information about city/town you entered. 
+If you entered the incorrect location it shows the error.
 
 CONCLUSION:
 
