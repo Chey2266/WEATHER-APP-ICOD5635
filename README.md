@@ -54,3 +54,13 @@ If you entered the incorrect location it shows the error.
 CONCLUSION:
 
 The Weather App is a user-friendly and visually appealing web application designed to provide users with accurate and up-to-date weather information. With its intuitive interface, responsive design, and robust functionality, the app offers users a convenient way to check the weather forecast for any location worldwide. Whether on desktop or mobile devices, users can rely on the Weather App to stay informed about current weather conditions wherever they are.
+
+OUTPUT:
+
+![Screenshot 2024-04-03 170353](https://github.com/Chey2266/WEATHER-APP-ICOD5635/assets/153630592/76c075d4-1f6e-487a-a819-33bf9e3e3ee9)
+
+![Screenshot 2024-04-03 170406](https://github.com/Chey2266/WEATHER-APP-ICOD5635/assets/153630592/c0a0466b-4f55-49e2-ac69-a78b9510df7e)
+
+
+
+
